@@ -47,11 +47,11 @@
                 <a class="btn-close" href="javascript: history.back();"></a>
                 <dl>
                     <dt>
-                        <img src="http://en.idgcapital.com/sites/default/files/styles/avatar282x298/public/team/Gary.png?itok=1RkqZXuB" width="370" height="394" alt="" />
+                        <img src="/sites/all/themes/idgcapital/images/jinming.jpeg" width="370" height="394" alt="" />
                     </dt>
                     <dd>
-                        <h3>Alexandre Quirici</h3>
-                        <p>Alexandre Quirici has been working on China-focused projects for the past nine years and is now responsible for Cross-border Investments. Prior to joining IDG Capital in 2010, Alexandre was an investor and executive at a Chinese brand later sold to Kering. He also previously worked for the European media group Bertelsmann, and the PE fund Quilvest. Alexandre began his career in investment banking at Credit Suisse in London. He holds a bachelor's degree in Applied Mathematics from Imperial College and an MBA from INSEAD. Alexandre speaks English, French, Spanish and Italian.</p>
+                        <h3>Jinming Hu</h3>
+                        <p>I live my life driven to help those around me. I thoroughly believe that an open mind is the best way of ensuring the betterment of this world. China currently lacks a reliable due diligence system. My company Zhang Luan Data, works to provide professional and factual financial advice and knowledge to the public, ensuring that we are looking after investors best interests. My goal is to create a completely transparent investing process throughout China, with the hopes of spreading this process worldwide.</p>
                     </dd>
                 </dl>
             </div>
@@ -78,7 +78,7 @@
                     </div>
                     <div id="block-block-18" class="block block-block">
                             <h2>Offices</h2>
-                            <div class="block-content"><a href="../contact-us?office=New%2520York">New York</a></div>
+                            <div class="block-content"><a href="../contact-us.html">Silicon Valley</a></div>
                     </div>
                 </div>
             </div>
